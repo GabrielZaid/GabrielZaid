@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Zaid Perez Perez</h1>
-<h3 align="center">Me apasiona la tecnologia, conocer y aprender nuevas cosas cada dia, creo que el universo depende de nuestro conocimiento.</h3>
+<h3 align="center">Me apasiona la tecnologia, conocer y aprender nuevas cosas cada dia, creo que el universo  de cada persona depende del conocimiento que esta tenga, entre mas conocimiento mas amplio el universo.</h3>
 
 - 🔭 I’m currently working on **Sistema de Control Escolar**
 
