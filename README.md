@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel Zaid Perez Perez</h1>
 <h3 align="center">Me apasiona la tecnologia, conocer y aprender nuevas cosas cada dia, creo que el universo  de cada persona depende del conocimiento que esta tenga, entre mas conocimiento mas amplio el universo.</h3>
 
-- 🔭 I’m currently working on **Sistema de Control Escolar**
+- 🔭 I’m currently working on **Sistema de Horarios**
 
-- 🌱 I’m currently learning **Javascript, react, Laravel, dataTables, java**
+- 🌱 I’m currently learning **NextJs, django, python**
 
 - 👯 I’m looking to collaborate on **Diferentes proyectos que me den experiencia**
 
-- 💬 Ask me about **Larevel, css, html,Javascript, dataTables, java**
+- 💬 Ask me about **Larevel, css, html,Javascript, dataTables, Angular **
 
 - 📫 How to reach me **www.linkedin.com/in/gabriel-zaid-perez-perez-0531a525b**
 
