@@ -7,11 +7,8 @@
 
 ---
 
-## 🔭 Actualmente estoy trabajando en
-- Sistema de Gestión de Horarios (Full-Stack)
-
 ## 🌱 Actualmente estoy aprendiendo
-- Next.js, Django, Python avanzado
+- Next.js, Django, Sprint Boot
 
 ## 👯 Busco colaborar en
 - Proyectos desafiantes que me permitan crecer profesionalmente y aportar mis habilidades
